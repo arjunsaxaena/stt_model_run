@@ -1,0 +1,11 @@
+Model: Oriserve/Whisper-Hindi2Hinglish-Swift
+Timestamp: 2025-09-13 19:04:23
+Audio File: audio/recording_20250913_190420.wav
+Transcription: My name is arjun saxena.
+
+Timing Details:
+- Model Loading Time: 5.89 seconds
+- Inference Time: 3.10 seconds
+- Total Processing Time: 8.99 seconds
+
+Device: CPU
